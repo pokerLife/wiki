@@ -9,12 +9,12 @@
 
 ## 编程语言
 
-### java
+### 1.java
 
 [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 
 ## 数据库
 
-### oracle
+### 2.oracle
 
 [Oracle查看所有序列](https://github.com/mHeartbeats/notes/issues/3)
