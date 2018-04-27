@@ -17,3 +17,4 @@
 
 ### oracle
 
+[Oracle查看所有序列](https://github.com/mHeartbeats/notes/issues/3)
