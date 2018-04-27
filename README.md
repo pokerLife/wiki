@@ -15,6 +15,6 @@
 
 ## 数据库
 
-### 2.oracle
+### 1.oracle
 
 [Oracle查看所有序列](https://github.com/mHeartbeats/notes/issues/3)
