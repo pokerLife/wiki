@@ -9,6 +9,8 @@
 * [eclipse导入新的maven项目时，pom.xml第一行报错解决办法](https://github.com/mHeartbeats/notes/issues/6)
 * [快速生成Getter/Setter注释模板](https://github.com/mHeartbeats/notes/issues/7)
 
+### IntelliJ IDEA 
+
 ## 编程语言
 
 ### java
