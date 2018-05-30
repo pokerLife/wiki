@@ -16,6 +16,7 @@
 ### java
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
+* [strut.xml配置](https://github.com/mHeartbeats/notes/issues/4)
 
 ## 数据库
 
