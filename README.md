@@ -11,6 +11,9 @@
 
 ### IntelliJ IDEA 
 
+#### 插件 
+* [IntelliJ IDEA 的 Java 热部署插件激活]https://github.com/mHeartbeats/notes/issues/8
+
 ## 编程语言
 
 ### java
