@@ -23,7 +23,7 @@
 
 ### java基础学习(每日记录)
 
-> ![基础学习笔记仓库地址](https://github.com/mHeartbeats/javaBasicLearn)
+> [基础学习笔记仓库地址](https://github.com/mHeartbeats/javaBasicLearn)
 
 ## 数据库
 
