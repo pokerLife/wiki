@@ -21,6 +21,10 @@
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [strut.xml配置](https://github.com/mHeartbeats/notes/issues/4)
 
+### java基础学习(每日记录)
+
+> ![基础学习笔记仓库地址](https://github.com/mHeartbeats/javaBasicLearn)
+
 ## 数据库
 
 ### oracle
