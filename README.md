@@ -38,3 +38,5 @@
 # Windows技巧
 
 ### 常用文件夹及文件操作
+
+* [批量提取文件夹内文件名](https://github.com/mHeartbeats/notes/issues/14)
