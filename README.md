@@ -34,3 +34,7 @@
 ### oracle
 
 * [Oracle查看所有序列](https://github.com/mHeartbeats/notes/issues/3)
+
+# Windows技巧
+
+### 常用文件夹及文件操作
