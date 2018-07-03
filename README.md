@@ -33,7 +33,7 @@
 
 ### oracle
 
-* [Oracle查看所有序列](https://github.com/mHeartbeats/notes/issues/3)
+* [Oracle查看某个用户序列及序列总数](https://github.com/mHeartbeats/notes/issues/3)
 
 # Windows技巧
 
