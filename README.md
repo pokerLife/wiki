@@ -34,6 +34,7 @@
 ### oracle
 
 * [Oracle查看某个用户序列及序列总数](https://github.com/mHeartbeats/notes/issues/3)
+* [解决ORA-01659：表空间不足的问题](https://github.com/mHeartbeats/notes/issues/15)
 
 # Windows技巧
 
