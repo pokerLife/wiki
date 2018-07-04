@@ -23,7 +23,14 @@
 ### java
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
+
+#### struts
+
 * [strut.xml配置](https://github.com/mHeartbeats/notes/issues/4)
+
+#### xml
+
+* [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/4)
 
 ### java基础学习(每日记录)
 
