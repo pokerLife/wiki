@@ -30,7 +30,7 @@
 
 #### xml
 
-* [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/4)
+* [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 
 ### java基础学习(每日记录)
 
