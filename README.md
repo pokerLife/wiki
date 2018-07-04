@@ -31,6 +31,7 @@
 #### xml
 
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
+* [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
 
 ### java基础学习(每日记录)
 
