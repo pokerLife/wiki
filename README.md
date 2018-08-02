@@ -23,6 +23,7 @@
 ### java
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
+* [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
 
 #### struts
 
