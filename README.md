@@ -17,7 +17,7 @@
 
 #### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
-* [Maven安装与环境配置（Windows)] (https://github.com/mHeartbeats/notes/issues/23)
+* [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
 
 ## 编程语言
 
