@@ -17,6 +17,7 @@
 
 #### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
+* [Maven安装与环境配置（Windows)] (https://github.com/mHeartbeats/notes/issues/23)
 
 ## 编程语言
 
@@ -49,7 +50,7 @@
 
 # Windows技巧
 
-### 常用文件夹及文件操作
+### 常用文件夹及文件操作 
 
 * [批量提取文件夹内文件名](https://github.com/mHeartbeats/notes/issues/14)
 * [Win键+数字键（0~9）快速启动任务栏程序](https://github.com/mHeartbeats/notes/issues/20)
