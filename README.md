@@ -1,7 +1,7 @@
 # notes
 > 工具技巧、学习心得
 
-## 工具技巧
+# 工具技巧
 
 ### myeclipse
 
@@ -19,7 +19,7 @@
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
 * [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
 
-## 编程语言
+# 编程语言
 
 ### java
 
@@ -36,11 +36,7 @@
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
 * [XPath语言](https://github.com/mHeartbeats/notes/issues/19)
 
-### java基础学习(每日记录)
-
-> [基础学习笔记仓库地址](https://github.com/mHeartbeats/javaBasicLearn)
-
-## 数据库
+# 数据库
 
 ### oracle
 
