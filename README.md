@@ -14,6 +14,7 @@
 
 * [设置 IDEA 中的 Tab 键为 4 个空格](https://github.com/mHeartbeats/notes/issues/11) 
 * [IntelliJ IDEA设置统一编码utf-8](https://github.com/mHeartbeats/notes/issues/12)
+* [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
 
 #### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
@@ -25,6 +26,7 @@
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
+* [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
 
 #### struts
 
