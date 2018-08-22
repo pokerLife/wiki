@@ -23,6 +23,8 @@
 
 # 编程语言
 
+### javaScript
+
 ### java
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
