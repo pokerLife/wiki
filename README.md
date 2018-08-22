@@ -25,6 +25,8 @@
 
 ### javaScript
 
+* [js jquery获取元素个数、字符数量,数据个数等](https://github.com/mHeartbeats/notes/issues/28)
+
 ### java
 
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
