@@ -9,6 +9,7 @@
 * [eclipse导入新的maven项目时，pom.xml第一行报错解决办法](https://github.com/mHeartbeats/notes/issues/6)
 * [快速生成Getter/Setter注释模板](https://github.com/mHeartbeats/notes/issues/7)
 * [myeclipse未正常关闭导致启动失败](https://github.com/mHeartbeats/notes/issues/10)
+* [javax.servlet.jsp.JspException找不到](https://github.com/mHeartbeats/notes/issues/32)
 
 ### IntelliJ IDEA 
 
