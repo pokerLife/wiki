@@ -10,6 +10,7 @@
 * [快速生成Getter/Setter注释模板](https://github.com/mHeartbeats/notes/issues/7)
 * [myeclipse未正常关闭导致启动失败](https://github.com/mHeartbeats/notes/issues/10)
 * [javax.servlet.jsp.JspException找不到](https://github.com/mHeartbeats/notes/issues/32)
+* [eclipse2018发布项目](https://github.com/mHeartbeats/notes/issues/33)
 
 ### IntelliJ IDEA 
 
