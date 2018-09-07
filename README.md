@@ -70,4 +70,4 @@
 
 # 开发技术概念
 
-* [持续集成](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+* [持续集成/持续交付/持续部署](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
