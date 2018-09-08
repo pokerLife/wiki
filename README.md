@@ -26,22 +26,20 @@
 # 编程语言
 
 ### javaScript
-
 * [js jquery获取元素个数、字符数量,数据个数等](https://github.com/mHeartbeats/notes/issues/28)
 * [js数组操作，数组处理，数组对象，数组分割split，连接成字符串join，字符串转为数组](https://github.com/mHeartbeats/notes/issues/29)
 
 ### java
-
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
 
-#### struts
+### html
+* [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/33)
 
-* [strut.xml配置](https://github.com/mHeartbeats/notes/issues/4)
+### html
 
 #### xml
-
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
 * [XPath语言](https://github.com/mHeartbeats/notes/issues/19)
