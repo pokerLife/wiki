@@ -32,7 +32,7 @@
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
 ### html
-* [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/33)
+* [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
