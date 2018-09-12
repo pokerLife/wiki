@@ -18,6 +18,8 @@
 * [IntelliJ IDEA设置统一编码utf-8](https://github.com/mHeartbeats/notes/issues/12)
 * [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
 
+### VScode
+
 #### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
 * [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
