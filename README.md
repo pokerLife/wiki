@@ -40,6 +40,9 @@
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
 * [XPath语言](https://github.com/mHeartbeats/notes/issues/19)
 
+### ssm碰到的坑
+* [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does]()
+
 # 数据库
 
 ### oracle
