@@ -17,7 +17,7 @@
 * [设置 IDEA 中的 Tab 键为 4 个空格](https://github.com/mHeartbeats/notes/issues/11) 
 * [IntelliJ IDEA设置统一编码utf-8](https://github.com/mHeartbeats/notes/issues/12)
 * [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
-* [Intellij Idea Spring Boot 热部署](https://github.com/mHeartbeats/notes/issues/35)
+* [Intellij Idea Spring Boot 热部署](https://github.com/mHeartbeats/notes/issues/37)
 
 ### VScode
 
@@ -42,7 +42,7 @@
 * [XPath语言](https://github.com/mHeartbeats/notes/issues/19)
 
 ### ssm碰到的坑
-* [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/34)
+* [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/36)
 
 # 数据库
 
