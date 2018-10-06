@@ -34,6 +34,8 @@
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
+### spring boot开发
+* [spring使用@Value标签读取*.properties文件的中文乱码问题的解决]
 ### html
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 ### xml
