@@ -36,6 +36,7 @@
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
 ### spring boot开发
 * [spring使用@Value标签读取*.properties文件的中文乱码问题的解决](https://github.com/mHeartbeats/notes/issues/37)
+* [SpringBoot 发送邮件附件](https://github.com/mHeartbeats/notes/issues/38)
 ### html
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 ### xml
