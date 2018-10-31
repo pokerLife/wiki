@@ -57,6 +57,10 @@
 * [oracle查询某个表空间下的所有序列并生成创建对应序列的sql](https://github.com/mHeartbeats/notes/issues/16)
 * [Oracle触发器学习笔记](https://github.com/mHeartbeats/notes/issues/24)
 
+### plsqldev
+
+* [Oracle配置PL/SQL Developer连接数据库]
+
 # Windows技巧
 
 ### 常用文件夹及文件操作 
