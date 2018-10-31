@@ -59,7 +59,7 @@
 
 ### plsqldev
 
-* [Oracle配置PL/SQL Developer连接数据库]
+* [Oracle配置PL/SQL Developer连接数据库](https://github.com/mHeartbeats/notes/issues/40)
 
 # Windows技巧
 
