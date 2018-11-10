@@ -19,12 +19,12 @@
 * [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
 * [Intellij Idea Spring Boot 热部署](https://github.com/mHeartbeats/notes/issues/36)
 
-### VScode
-
 #### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
 * [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
 * [idea热部署内存溢出：java.lang.OutOfMemoryError](https://github.com/mHeartbeats/notes/issues/27)
+
+### VScode
 
 # 编程语言
 ### javaScript
