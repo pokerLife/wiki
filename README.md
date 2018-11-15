@@ -26,6 +26,12 @@
 
 ### VScode
 
+### 数据可视化
+
+#### 1.echarts踩坑
+
+* [echarts饼图label文字重叠问题](https://github.com/mHeartbeats/notes/issues/40)
+
 # 编程语言
 ### javaScript
 * [js jquery获取元素个数、字符数量,数据个数等](https://github.com/mHeartbeats/notes/issues/28)
