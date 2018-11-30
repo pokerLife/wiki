@@ -64,6 +64,7 @@
 * [oracle查询某个表空间下的所有序列并生成创建对应序列的sql](https://github.com/pokerLife/notes/issues/16)
 * [Oracle触发器学习笔记](https://github.com/pokerLife/notes/issues/24)
 * [oracle 用更高效的instr方法代替 LIKE 关键字的模糊查询](https://github.com/pokerLife/notes/issues/43)
+* [sql语句where 1=1和1=2的作用](https://github.com/pokerLife/notes/issues/44)
 
 ### plsqldev
 
