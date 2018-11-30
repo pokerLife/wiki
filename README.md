@@ -58,12 +58,12 @@
 # 数据库
 
 ### oracle
-
-* [Oracle查看某个用户序列及序列总数](https://github.com/mHeartbeats/notes/issues/3)
-* [解决ORA-01659：表空间不足的问题](https://github.com/mHeartbeats/notes/issues/15)
-* [oracle查询某个表空间下的所有序列并生成创建对应序列的sql](https://github.com/mHeartbeats/notes/issues/16)
-* [Oracle触发器学习笔记](https://github.com/mHeartbeats/notes/issues/24)
-* [oracle 用更高效的instr方法代替 LIKE 关键字的模糊查询](https://github.com/mHeartbeats/notes/issues/43)
+* [Oracle速查速记手册知识文档](https://github.com/pokerLife/notes/blob/master/oracle.md)
+* [Oracle查看某个用户序列及序列总数](https://github.com/pokerLife/notes/issues/3)
+* [解决ORA-01659：表空间不足的问题](https://github.com/pokerLife/notes/issues/15)
+* [oracle查询某个表空间下的所有序列并生成创建对应序列的sql](https://github.com/pokerLife/notes/issues/16)
+* [Oracle触发器学习笔记](https://github.com/pokerLife/notes/issues/24)
+* [oracle 用更高效的instr方法代替 LIKE 关键字的模糊查询](https://github.com/pokerLife/notes/issues/43)
 
 ### plsqldev
 
