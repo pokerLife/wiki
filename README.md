@@ -65,6 +65,7 @@
 * [Oracle触发器学习笔记](https://github.com/pokerLife/notes/issues/24)
 * [oracle 用更高效的instr方法代替 LIKE 关键字的模糊查询](https://github.com/pokerLife/notes/issues/43)
 * [sql语句where 1=1和1=2的作用](https://github.com/pokerLife/notes/issues/44)
+* [Oracle 格式化日期 ](https://github.com/pokerLife/notes/issues/45)
 
 ### plsqldev
 
