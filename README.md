@@ -70,6 +70,7 @@
 
 ### MongoDB
 * [MongoDB 条件操作符](https://github.com/pokerLife/notes/issues/48)
+* [MongoDB 查询文档](https://github.com/pokerLife/notes/issues/49)
 
 ### plsqldev
 
