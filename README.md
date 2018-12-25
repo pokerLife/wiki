@@ -59,6 +59,7 @@
 * [Express路由规则]()
 ### vue相关整理
 * [vue组件以及插件等收集整理](https://github.com/pokerLife/notes/blob/master/vue-ui-components.md)
+* [vue项目问题整理]()
 ### ssm碰到的坑
 * [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/35)
 
