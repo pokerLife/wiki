@@ -50,6 +50,7 @@
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 ### css/less/sass/postcss
 * [伪类 + transform 实现移动端1物理像素线](https://github.com/mHeartbeats/notes/issues/51)
+* [移动端图片保持宽高比采用padding-top 实现](https://github.com/mHeartbeats/notes/issues/52)
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
