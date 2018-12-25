@@ -48,6 +48,8 @@
 * [SpringBoot 启动报错 Consider the following:	If you want an embedded database (H2, HSQL or Derby), please put it on the .... ](https://github.com/mHeartbeats/notes/issues/39)
 ### html
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
+### css/less/sass/postcss
+* [伪类 + transform 实现移动端1物理像素线] 
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
