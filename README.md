@@ -60,6 +60,9 @@
 ### vue相关整理
 * [vue组件以及插件等收集整理](https://github.com/pokerLife/notes/blob/master/vue-ui-components.md)
 * [vue项目问题整理](https://github.com/pokerLife/notes/blob/master/vue-question.md)
+#### vue专题网站
+* [awesomes关于vue的专题](https://www.awesomes.cn/subject/vue#%E5%BA%94%E7%94%A8-%E6%A1%86%E6%9E%B6)
+* [一些有用的vue插件](http://elickzhao.github.io/2017/08/vue%E4%B8%80%E4%BA%9B%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6/)
 ### ssm碰到的坑
 * [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/35)
 
