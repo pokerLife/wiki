@@ -37,6 +37,7 @@
 * [js jquery获取元素个数、字符数量,数据个数等](https://github.com/mHeartbeats/notes/issues/28)
 * [js数组操作，数组处理，数组对象，数组分割split，连接成字符串join，字符串转为数组](https://github.com/mHeartbeats/notes/issues/29)
 * [es6变量解构赋值的用途](https://github.com/mHeartbeats/notes/issues/46)
+* [Promise 必知必会（十道题）](https://github.com/mHeartbeats/notes/issues/54)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
