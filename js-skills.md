@@ -1,4 +1,4 @@
-# :earth_asia:JavaScript 编码技巧
+# :fish: JavaScript 编码技巧
 
 > 持续更新中...
 
