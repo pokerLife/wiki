@@ -1,6 +1,6 @@
-# :fish: JavaScript 编码技巧
-
-> 持续更新中...
+# JavaScript 编码技巧 
+:fish: 
+> 持续更新中... 
 
 ## 1. Array.includes 与条件判断
 
