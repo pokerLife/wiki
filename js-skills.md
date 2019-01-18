@@ -55,7 +55,7 @@ let arr1 = new Set([1,2,3])
 let arr2 = new Set([4,3,2])
 // 并集
 let union = new Set([...arr1, ...arr2]);
-// [1,2,3,4] //自动排序了
+// [1,2,3,4] 
 
 ```
 
