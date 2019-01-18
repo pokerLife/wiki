@@ -33,4 +33,17 @@ Set类似于数组结构：但是set成员不能重复.
 ```JavaScript
    const arr = [1,1,5,3,5,3,2];
    const unique = [...new Set(arr)];
+   // [1, 5, 3, 2]
 ```
+* Array.form 方法可以将 Set 结构转化为数组,我们可以编写一个去重函数:
+```js
+   function unique(array) {
+      return Array.form(new Set(array));
+      // return [...new Set(array)];
+   }
+   unique([1,1,2,4]) // [1,2,4]
+```
+
+
+
+
