@@ -14,7 +14,7 @@
     }
 ```
 
-如果我们有更多水果,继续使用 *"||"* 代码很累赘，使用Array.includes效果瞬间高大上了。
+如果我们有更多水果:
 
 ``` JavaScript
     function testFruit(fruit) {
@@ -24,4 +24,13 @@
             console.log(`Sweet fruit`);
         }
     }
+```
+## Set去重
+
+Set类似于数组结构：但是set成员不能重复.
+* 数组去重
+
+```JavaScript
+   const arr = [1,1,5,3,5,3,2];
+   const unique = [...new Set(arr)];
 ```
