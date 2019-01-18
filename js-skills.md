@@ -27,7 +27,7 @@
 ```
 ## Set去重
 
-Set类似于数组结构：但是set成员不能重复.
+Set类似于数组结构,但是set成员不能重复.
 * 数组去重
 
 ```JavaScript
@@ -42,6 +42,21 @@ Set类似于数组结构：但是set成员不能重复.
       // return [...new Set(array)];
    }
    unique([1,1,2,4]) // [1,2,4]
+```
+* 字符串去重
+```js
+  let str = [... new Set('ababc')].join('');
+  console.log(str)
+  // 'abc'
+```
+* 另外 Set 是如此强大，因此使用 Set 可以很容易地实现并集（Union）、交集（Intersect）和差集（Difference）。
+```js
+let arr1 = new Set([1,2,3])
+let arr2 = new Set([4,3,2])
+// 并集
+let union = new Set([...arr1, ...arr2]);
+// [1,2,3,4] //自动排序了
+
 ```
 
 
