@@ -107,3 +107,43 @@ for( let value of map.values()) {
 // yes
 // no
 ```
+## 4 函数式的方式处理数据
+假设我们有这样的需求，需要先把数组 foo 中的对象结构更改，然后从中挑选出一些符合条件的对象，并且把这些对象放进新数组 result 里。
+```js
+let foo = [{
+        name: "Stark",
+        age: 21
+    },
+    {
+        name: "Jarvis",
+        age: 20
+    },
+    {
+        name: "Pepper",
+        age: 16
+    }
+];
+//我们希望得到结构稍微不同，age大于16的对象：
+let result = [{
+        person: {
+            name: "Stark",
+            age: 21
+        },
+        friends: []
+    },
+    {
+        person: {
+            name: "Jarvis",
+            age: 20
+        },
+        friends: []
+    }
+];
+```
+通常我们会采用for循环处理，使用函数式处理效果如下：
+```js
+```
+
+
+
+
