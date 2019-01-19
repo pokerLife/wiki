@@ -25,7 +25,7 @@
         }
     }
 ```
-## Set去重
+## 2.Set去重
 
 Set类似于数组结构,但是set成员不能重复.
 * 数组去重
@@ -67,7 +67,7 @@ let intersect = new Set([...arr1].filter(x=>{
 }));
 // set {1,4}
 ```
-## Map与字典数据类型
+## 3.Map与字典数据类型
 ES6 提供了 Map 数据结构。它类似于 Object 对象，也是键值对的集合，但是“键”的范围不限于字符串，各种类型的值，字符串、数值、布尔值、数组、对象等等都可以当作键。
 * Map 基本操作
 ```js
@@ -93,5 +93,16 @@ ES6 提供了 Map 数据结构。它类似于 Object 对象，也是键值对的
    // 清空
    resultMap.clear()
 ```
-
-
+Map 的遍历顺序就是插入顺序：
+```js
+for( let key of map.keys()) {
+    console.log(key)
+} 
+// F
+// S
+for( let value of map.values()) {
+    console.log(value)
+} 
+// yes
+// no
+```
