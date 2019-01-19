@@ -55,8 +55,17 @@ let arr1 = new Set([1,2,3])
 let arr2 = new Set([4,3,2])
 // 并集
 let union = new Set([...arr1, ...arr2]);
-// [1,2,3,4] 
-
+// set {1,2,3,4} 
+// 交集
+let intersect = new Set([...arr1].filter(x=>{
+	return arr2.has(x);
+}));
+// set {2,3}
+// 交集
+let intersect = new Set([...arr1].filter(x=>{
+	return !arr2.has(x);
+}));
+// set {1,4}
 ```
 
 
