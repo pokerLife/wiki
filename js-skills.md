@@ -67,7 +67,31 @@ let intersect = new Set([...arr1].filter(x=>{
 }));
 // set {1,4}
 ```
-
-
+## Map与字典数据类型
+ES6 提供了 Map 数据结构。它类似于 Object 对象，也是键值对的集合，但是“键”的范围不限于字符串，各种类型的值，字符串、数值、布尔值、数组、对象等等都可以当作键。
+* Map 基本操作
+```js
+   // 添加
+   const resultMap = new Map();
+   resultMap.set('0','1111');
+   resultMap.set('zhaojie',['1',2]);
+   // 获取
+   resultMap.get('zhaojie')
+   // ["1", 2]
+   // 删除
+   resultMap.delete('0')
+   // true
+   // 转换成json
+   resultMap.toJSON()
+   // [Array(2)]
+   // 修改值
+   resultMap.set('zhaojie', '1111')
+   // Map(1) {"zhaojie" => "1111"}
+   // 大小
+   resultMap.size
+   // 1
+   // 清空
+   resultMap.clear()
+```
 
 
