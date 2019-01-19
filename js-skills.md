@@ -95,6 +95,7 @@ ES6 提供了 Map 数据结构。它类似于 Object 对象，也是键值对的
 ```
 Map 的遍历顺序就是插入顺序：
 ```js
+const map = new Map([["F","yes"],["S","no"]]);
 for( let key of map.keys()) {
     console.log(key)
 } 
