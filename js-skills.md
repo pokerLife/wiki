@@ -142,6 +142,14 @@ let result = [{
 ```
 通常我们会采用for循环处理，使用函数式处理效果如下：
 ```js
+let results = foo.filter(personal => {
+   return personal.age > 16;
+}).map(personal => {
+   return {
+      personal,
+      friend:[]
+    }
+})
 ```
 
 
