@@ -151,7 +151,13 @@ let results = foo.filter(personal => {
     }
 })
 ```
-
-
+* 数组求和
+```js
+   let arr = [1, 2, 3, 5];
+   arr.reduce((a, b) => {
+	return a + b;
+   });
+   // 11
+```
 
 
