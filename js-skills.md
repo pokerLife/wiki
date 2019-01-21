@@ -140,7 +140,7 @@ let result = [{
     }
 ];
 ```
-通常我们会采用for循环处理，使用函数式处理效果如下：
+通常我们会采用for循环处理，这里我们使用函数式处理效果如下：
 ```js
 let results = foo.filter(personal => {
    return personal.age > 16;
@@ -159,5 +159,35 @@ let results = foo.filter(personal => {
    });
    // 11
 ```
+# 组合 compose
+compose，以下将称之为组合：
+```js
+var compose = function(f,g) {
+  return function(x) {
+    return f(g(x));
+  };
+};
+```
+组合看起来像是在饲养函数。你就是饲养员，选择两个有特点又遭你喜欢的函数，让它们结合，产下一个崭新的函数。组合的用法如下：
+```js
+var toUpperCase = function(x) { return x.toUpperCase(); };
+var exclaim = function(x) { return x + '!'; };
+var shout = compose(exclaim, toUpperCase);
+
+shout("send in the clowns");
+//=> "SEND IN THE CLOWNS!"
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
 
