@@ -107,7 +107,7 @@ for( let value of map.values()) {
 // yes
 // no
 ```
-## 4 函数式的方式处理数据
+## 4.函数式的方式处理数据
 假设我们有这样的需求，需要先把数组 foo 中的对象结构更改，然后从中挑选出一些符合条件的对象，并且把这些对象放进新数组 result 里。
 ```js
 let foo = [{
@@ -159,7 +159,7 @@ let results = foo.filter(personal => {
    });
    // 11
 ```
-# 组合 compose
+## 5.组合 compose
 compose，以下将称之为组合：
 ```js
 var compose = function(f,g) {
