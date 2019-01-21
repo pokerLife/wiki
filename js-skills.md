@@ -177,6 +177,11 @@ var shout = compose(exclaim, toUpperCase);
 shout("send in the clowns");
 //=> "SEND IN THE CLOWNS!"
 ```
+## 6.字符串反转
+```js
+  let str = 'zhaojie';
+  [...str].reverse().join('');
+```
 
 
 
