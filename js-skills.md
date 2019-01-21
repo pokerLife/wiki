@@ -184,16 +184,7 @@ shout("send in the clowns");
   let str = 'zhaojie';
   [...str].reverse().join('');
 ```
-## 7.空(null, undefined)验证
-```js
-let variable2 = variable1 || '';
-// null 或者 undefined 显示为 ''
-```
-## 8.if true .. else 的优化
-```js
-// 使用三元表达式
-let big = x > 10 ? true : false;
-```
+
 
 
 
