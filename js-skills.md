@@ -184,8 +184,11 @@ shout("send in the clowns");
   let str = 'zhaojie';
   [...str].reverse().join('');
 ```
-
-
+## 7.使用 Array.from 快速生成数组
+一般我们生成一个有规律的数组会使用循环插入的方法，比如使用时间选择插件时，我们可能需要将小时数存放在数组中，现在我们使用Array.form生成：
+```js
+ let hours = Array.from({ length: 24 }, (value, index) => index + '时');
+```
 
 
 
