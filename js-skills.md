@@ -189,8 +189,24 @@ shout("send in the clowns");
 ```js
  let hours = Array.from({ length: 24 }, (value, index) => index + '时');
 ```
+## 8.使用 setTimeout 代替 setInterval
+一般情况下我们在项目里不建议使用 setInterval，因为其会存在代码的执行间隔比预期小以及 “丢帧” 的现象，原因在于其本身的实现逻辑。很多人会认为 setInterval 中第二个时间参数的作用是经过该毫秒数执行回调方法，其实不然，其真正的作用是经过该毫秒数将回调方法放置到队列中去，但是如果队列中存在正在执行的方法，其会等待之前的方法完毕再执行，如果存在还未执行的代码实例，其不会插入到队列中去，也就产生了 “丢帧”。
 
+而 setTimeout 并不会出现这样的现象，因为每一次调用都会产生了一个新定时器，同时在前一个定时器代码执行完之前，不会向队列插入新的定时器代码
+```js
+// 该定时器实际会在 3s 后立即触发下一次回调
+setInterval(() => {
+    // 执行完这里的代码需要 2s
+}, 1000);
 
+// 使用 setTimeout 改写，4秒后触发下一次回调
+let doSometing = () => {
+    // 执行完这里的代码需要 2s
+    
+    setTimeout(doSometing, 1000);
+}
+doSometing();
+```
 
 
 
