@@ -207,7 +207,7 @@ let doSometing = () => {
 }
 doSometing();
 ```
-
+> 更多参考 [对于“不用setInterval，用setTimeout”的理解](https://segmentfault.com/a/1190000011282175)
 
 
 
