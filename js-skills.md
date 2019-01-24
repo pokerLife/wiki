@@ -224,6 +224,35 @@ for (let key in arr) {
     console.log(arr[key]); // 此时会打印 1, 2, ƒ () {}
 }
 ```
+## 10.使用解构
+* 不要使用三层及以上解构
+> 过多层次的解构会让代码变得难以阅读。
+```js
+// bad
+let {documentElement: {firstElementChild: {nextSibling}}} = window;
+```
+* 使用解构减少中间变量
+> 常见场景如变量值交换，可能产生中间变量。这种场景推荐使用解构。
+```js
+// good
+[x, y] = [y, x];
+
+// bad
+let temp = x;
+x = y;
+y = temp;
+```
+
+
+
+
+
+
+
+
+
+
+
 
 
 
