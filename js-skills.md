@@ -1,12 +1,19 @@
 # JavaScript 编码技巧 
  
- * <a href='#1'> Array.includes 与条件判断</a>
- 
+ ## 目录
+ * <a href='#1'>Array.includes 与条件判断</a>
+ * <a href='#2'>Set去重</a>
+ * <a href='#3'>Map与字典数据类型</a>
+ * <a href='#4'>函数式的方式处理数据</a>
+ * <a href='#5'>组合 compose</a>
+ * <a href='#6'>字符串反转</a>
+ * <a href='#7'>使用 Array.from 快速生成数组</a>
+ * <a href='#8'>使用 setTimeout 代替 setInterval</a>
+ * <a href='#9'>遍历数组不要使用for in</a>
+ * <a href='#10'>使用解构赋值</a>
 > 持续更新中:fish: ... 
-
-## 1. Array.includes 与条件判断
 <span id='1'><span>
-
+## 1. Array.includes 与条件判断
 一般我们的判断都是用 || 例如：
 
 ```JavaScript
@@ -28,6 +35,7 @@
         }
     }
 ```
+<span id='2'><span>
 ## 2.Set去重
 
 Set类似于数组结构,但是set成员不能重复.
@@ -70,6 +78,7 @@ let intersect = new Set([...arr1].filter(x=>{
 }));
 // set {1,4}
 ```
+<span id='3'><span>
 ## 3.Map与字典数据类型
 ES6 提供了 Map 数据结构。它类似于 Object 对象，也是键值对的集合，但是“键”的范围不限于字符串，各种类型的值，字符串、数值、布尔值、数组、对象等等都可以当作键。
 * Map 基本操作
@@ -110,6 +119,7 @@ for( let value of map.values()) {
 // yes
 // no
 ```
+<span id='4'>函数式的方式处理数据<span>
 ## 4.函数式的方式处理数据
 假设我们有这样的需求，需要先把数组 foo 中的对象结构更改，然后从中挑选出一些符合条件的对象，并且把这些对象放进新数组 result 里。
 ```js
@@ -162,6 +172,7 @@ let results = foo.filter(personal => {
    });
    // 11
 ```
+<span id='5'>组合 compose<span>
 ## 5.组合 compose
 compose，以下将称之为组合：
 ```js
@@ -182,16 +193,20 @@ var shout = compose(exclaim, toUpperCase);
 shout("send in the clowns");
 //=> "SEND IN THE CLOWNS!"
 ```
+<span id='6'>字符串反转 compose<span>
 ## 6.字符串反转
 ```js
   let str = 'zhaojie';
   [...str].reverse().join('');
 ```
+
+<span id='7'>使用 Array.from 快速生成数组 compose<span>
 ## 7.使用 Array.from 快速生成数组
 一般我们生成一个有规律的数组会使用循环插入的方法，比如使用时间选择插件时，我们可能需要将小时数存放在数组中，现在我们使用Array.form生成：
 ```js
  let hours = Array.from({ length: 24 }, (value, index) => index + '时');
 ```
+<span id='8'>使用 setTimeout 代替 setInterval<span>
 ## 8.使用 setTimeout 代替 setInterval
 一般情况下我们在项目里不建议使用 setInterval，因为其会存在代码的执行间隔比预期小以及 “丢帧” 的现象，原因在于其本身的实现逻辑。很多人会认为 setInterval 中第二个时间参数的作用是经过该毫秒数执行回调方法，其实不然，其真正的作用是经过该毫秒数将回调方法放置到队列中去，但是如果队列中存在正在执行的方法，其会等待之前的方法完毕再执行，如果存在还未执行的代码实例，其不会插入到队列中去，也就产生了 “丢帧”。
 
@@ -211,6 +226,7 @@ let doSometing = () => {
 doSometing();
 ```
 > 延伸阅读：[对于“不用setInterval，用setTimeout”的理解](https://segmentfault.com/a/1190000011282175)
+<span id='9'>遍历数组不要使用for in<span>
 ## 9.遍历数组不要使用for in
 因为for in 循环会遍历数组原型链，我们无法保证项目不会操作原型链，更加无法确定第三方库，所以还是不要使用for in 遍历数组。
 ```js
@@ -227,7 +243,8 @@ for (let key in arr) {
     console.log(arr[key]); // 此时会打印 1, 2, ƒ () {}
 }
 ```
-## 10.使用解构
+<span id='10'>使用解构赋值<span>
+## 10.使用解构赋值
 * 不要使用三层及以上解构
 > 过多层次的解构会让代码变得难以阅读。
 ```js
