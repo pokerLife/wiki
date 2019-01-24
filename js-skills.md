@@ -208,8 +208,22 @@ let doSometing = () => {
 doSometing();
 ```
 > 延伸阅读：[对于“不用setInterval，用setTimeout”的理解](https://segmentfault.com/a/1190000011282175)
+## 9.遍历数组不要使用for in
+因为for in 循环会遍历数组原型链，我们无法保证项目不会操作原型链，更加无法确定第三方库，所以还是不要使用for in 遍历数组。
+```js
+let arr = [1, 2];
 
+for (let key in arr) {
+    console.log(arr[key]); // 会正常打印 1, 2
+}
 
+// 但是如果在 Array 原型链上添加一个方法
+Array.prototype.test = function() {};
+
+for (let key in arr) {
+    console.log(arr[key]); // 此时会打印 1, 2, ƒ () {}
+}
+```
 
 
 
