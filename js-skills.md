@@ -1,10 +1,11 @@
 # JavaScript 编码技巧 
  
- * Array.includes [与条件判断](## 1. Array.includes 与条件判断)
+ * <a href='#1'> Array.includes 与条件判断</a>
  
 > 持续更新中:fish: ... 
 
 ## 1. Array.includes 与条件判断
+<span id='1'><span>
 
 一般我们的判断都是用 || 例如：
 
