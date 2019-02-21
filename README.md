@@ -57,6 +57,7 @@
 * [伪类 + transform 实现移动端1物理像素线](https://github.com/mHeartbeats/notes/issues/51)
 * [移动端图片保持宽高比采用padding-top 实现](https://github.com/mHeartbeats/notes/issues/52)
 * [阮一峰 Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [阮一峰 Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
