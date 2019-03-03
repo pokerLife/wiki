@@ -24,7 +24,12 @@
 * [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
 * [idea热部署内存溢出：java.lang.OutOfMemoryError](https://github.com/mHeartbeats/notes/issues/27)
 
-### VScode
+### 项目打包发布
+* [Cordova - 打包Vue项目的详细步骤（将Vue.js项目编译成App）](http://www.hangge.com/blog/cache/detail_2101.html)
+
+### 项目环境搭建
+* 安卓开发环境
+  * [Android - Windows下开发环境的搭建（附：编写运行一个简单样例）](http://www.hangge.com/blog/cache/detail_1294.html)
 
 ### 数据可视化
 
@@ -52,15 +57,20 @@
 * [SpringBoot 启动报错 Consider the following:	If you want an embedded database (H2, HSQL or Derby), please put it on the .... ](https://github.com/mHeartbeats/notes/issues/39)
 ### html
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
+* [HTML5 DOM #59](https://github.com/mHeartbeats/notes/issues/59)
 ### css/less/sass/postcss
 * [伪类 + transform 实现移动端1物理像素线](https://github.com/mHeartbeats/notes/issues/51)
 * [移动端图片保持宽高比采用padding-top 实现](https://github.com/mHeartbeats/notes/issues/52)
+* [阮一峰 Flex 布局教程：语法篇](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
+* [阮一峰 Flex 布局教程：实例篇](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html)
+* [张鑫旭 CSS3 border-radius知多少？](https://www.zhangxinxu.com/wordpress/2015/11/css3-border-radius-tips/)
+* [css布局之box-sizing布局指南 #60](https://github.com/mHeartbeats/notes/issues/60)
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
 * [XPath语言](https://github.com/mHeartbeats/notes/issues/19)
 ### node.js
-* [Express路由规则]()
+* [Express路由规则 #50](https://github.com/mHeartbeats/notes/issues/50)
 ### vue相关整理
 * [vue组件以及插件等收集整理](https://github.com/pokerLife/notes/blob/master/vue-ui-components.md)
 * [vue项目问题整理](https://github.com/pokerLife/notes/blob/master/vue-question.md)
