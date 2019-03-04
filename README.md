@@ -93,7 +93,7 @@
 * [Oracle 格式化日期 ](https://github.com/pokerLife/notes/issues/45)
 
 ### 数据库连接工具
-* [Navicat 激活工具使用](https://github.com/DoubleLabyrinth/navicat-keygen)
+* [Navicat 激活工具使用(版本12.1.12已通过) ](https://github.com/DoubleLabyrinth/navicat-keygen)
 
 ### MongoDB
 * [MongoDB 条件操作符](https://github.com/pokerLife/notes/issues/48)
