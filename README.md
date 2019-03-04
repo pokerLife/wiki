@@ -92,6 +92,9 @@
 * [sql语句where 1=1和1=2的作用](https://github.com/pokerLife/notes/issues/44)
 * [Oracle 格式化日期 ](https://github.com/pokerLife/notes/issues/45)
 
+### 数据库连接工具
+* [Navicat 激活工具使用](https://github.com/DoubleLabyrinth/navicat-keygen)
+
 ### MongoDB
 * [MongoDB 条件操作符](https://github.com/pokerLife/notes/issues/48)
 * [MongoDB 查询文档](https://github.com/pokerLife/notes/issues/49)
