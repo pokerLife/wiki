@@ -46,6 +46,7 @@
 * [es6变量解构赋值的用途](https://github.com/mHeartbeats/notes/issues/46)
 * [Promise 必知必会（十道题）](https://github.com/mHeartbeats/notes/issues/54)
 * [常用Map和Set操作速记 #55](https://github.com/mHeartbeats/notes/issues/55)
+* [原生JavaScript插件编写指南](http://geocld.github.io/2016/03/10/javascript_plugin/)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
