@@ -31,6 +31,9 @@
 * 安卓开发环境
   * [Android - Windows下开发环境的搭建（附：编写运行一个简单样例）](http://www.hangge.com/blog/cache/detail_1294.html)
 
+### 代码规范类插件
+* [Eslint常用校验规则 #62](https://github.com/mHeartbeats/notes/issues/62)
+
 ### 数据可视化
 
 #### echarts踩坑
