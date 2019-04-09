@@ -61,6 +61,7 @@
 * [SpringBoot 发送邮件附件](https://github.com/mHeartbeats/notes/issues/38)
 * [SpringBoot 启动报错 Consider the following:	If you want an embedded database (H2, HSQL or Derby), please put it on the .... ](https://github.com/mHeartbeats/notes/issues/39)
 ### html
+* [Html5常用标签用法总结](https://github.com/pokerLife/notes/blob/master/Html5%E6%A0%87%E7%AD%BE%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93)
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 * [HTML5 DOM #59](https://github.com/mHeartbeats/notes/issues/59)
 ### css/less/sass/postcss
