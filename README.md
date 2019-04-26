@@ -53,6 +53,7 @@
 * [用Javascript获取页面元素的位置-阮一峰](http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html)
 * [JavaScript类数组对象 #64](https://github.com/mHeartbeats/notes/issues/64)
 * [if(variable) ToBoolean 转换规则 #65](https://github.com/mHeartbeats/notes/issues/65)
+* [类型转换之「抽象值操作」 #66](https://github.com/mHeartbeats/notes/issues/66)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
