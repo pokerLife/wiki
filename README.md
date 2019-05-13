@@ -51,6 +51,7 @@
 * [常用Map和Set操作速记 #55](https://github.com/mHeartbeats/notes/issues/55)
 * [原生JavaScript插件编写指南](http://geocld.github.io/2016/03/10/javascript_plugin/)
 * [用Javascript获取页面元素的位置-阮一峰](http://www.ruanyifeng.com/blog/2009/09/find_element_s_position_using_javascript.html)
+* [undefined与null的区别-阮一峰](http://www.ruanyifeng.com/blog/2014/03/undefined-vs-null.html)
 * [JavaScript类数组对象 #64](https://github.com/mHeartbeats/notes/issues/64)
 * [if(variable) ToBoolean 转换规则 #65](https://github.com/mHeartbeats/notes/issues/65)
 * [类型转换之「抽象值操作」 #66](https://github.com/mHeartbeats/notes/issues/66)
