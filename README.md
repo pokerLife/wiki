@@ -55,6 +55,7 @@
 * [JavaScript类数组对象 #64](https://github.com/mHeartbeats/notes/issues/64)
 * [if(variable) ToBoolean 转换规则 #65](https://github.com/mHeartbeats/notes/issues/65)
 * [类型转换之「抽象值操作」 #66](https://github.com/mHeartbeats/notes/issues/66)
+* [instanceof实现原理 #68](https://github.com/mHeartbeats/notes/issues/68)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
