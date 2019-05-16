@@ -98,7 +98,7 @@
 
 # 数据库
 
-### oracle
+### Oracle
 * [Oracle速查速记手册知识文档](https://github.com/pokerLife/notes/blob/master/oracle.md)
 * [Oracle查看某个用户序列及序列总数](https://github.com/pokerLife/notes/issues/3)
 * [解决ORA-01659：表空间不足的问题](https://github.com/pokerLife/notes/issues/15)
@@ -107,6 +107,8 @@
 * [oracle 用更高效的instr方法代替 LIKE 关键字的模糊查询](https://github.com/pokerLife/notes/issues/43)
 * [sql语句where 1=1和1=2的作用](https://github.com/pokerLife/notes/issues/44)
 * [Oracle 格式化日期 ](https://github.com/pokerLife/notes/issues/45)
+
+### MySQL
 
 ### 数据库连接工具
 * [Navicat 激活工具使用(版本12.1.12已通过) ](https://github.com/DoubleLabyrinth/navicat-keygen)
