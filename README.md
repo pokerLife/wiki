@@ -57,6 +57,7 @@
 * [类型转换之「抽象值操作」 #66](https://github.com/mHeartbeats/notes/issues/66)
 * [instanceof实现原理 #68](https://github.com/mHeartbeats/notes/issues/68)
 * [在JS中什么是变量提升？什么是暂时性死区？ #69](https://github.com/mHeartbeats/notes/issues/69)
+* [JavaScript中对象的枚举/遍历（enumeration） #70](https://github.com/mHeartbeats/notes/issues/70)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
