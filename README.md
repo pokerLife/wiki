@@ -62,6 +62,7 @@
 * [在JS中什么是变量提升？什么是暂时性死区？ #69](https://github.com/mHeartbeats/notes/issues/69)
 * [JavaScript中对象的枚举/遍历（enumeration） #70](https://github.com/mHeartbeats/notes/issues/70)
 * [JavaScript双感叹号"!!"的作用 #72](https://github.com/mHeartbeats/notes/issues/72)
+* [JavaScript新特性 #74](https://github.com/mHeartbeats/notes/issues/74)
 ### java
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
