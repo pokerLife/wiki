@@ -136,7 +136,7 @@
 * [Win键+数字键（0~9）快速启动任务栏程序](https://github.com/mHeartbeats/notes/issues/20)
 
 ### linux
-* [Centos下常用软件安装]()
+* [Centos下常用软件安装](https://github.com/pokerLife/notes/blob/master/centos%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85)
 
 
 # 项目构建管理
