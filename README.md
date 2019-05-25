@@ -142,4 +142,4 @@
 # 系统架构、部署
 
 * [持续集成/持续交付/持续部署](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
-* [正向代理和反向代理]
+* [正向代理和反向代理 #73](https://github.com/mHeartbeats/notes/issues/73)
