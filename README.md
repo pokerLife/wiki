@@ -131,10 +131,13 @@
 ### 系统安装
 * [UEFI+GPT+双硬盘下 搭建Windos10 和CentOS7 双系统](https://www.jianshu.com/p/5ee2f83e83bf)
 
-### windows常用文件夹及文件操作 
-
+### windows
 * [批量提取文件夹内文件名](https://github.com/mHeartbeats/notes/issues/14)
 * [Win键+数字键（0~9）快速启动任务栏程序](https://github.com/mHeartbeats/notes/issues/20)
+
+### linux
+* [Centos下常用软件安装]()
+
 
 # 项目构建管理
 
