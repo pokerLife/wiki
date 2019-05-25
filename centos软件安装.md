@@ -19,3 +19,4 @@ gpgkey=https://dl-ssl.google.com/linux/linux_signing_key.pub
 //失败请尝试
 # yum -y install google-chrome-stable --nogpgcheck
 ```
+***
