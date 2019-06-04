@@ -37,6 +37,9 @@
 ### 代码规范类插件
 * [Eslint常用校验规则 #62](https://github.com/mHeartbeats/notes/issues/62)
 
+### 团队协作
+* [Git忽略规则及 .gitignore 规则不生效的解决办法 #77](https://github.com/mHeartbeats/notes/issues/77)
+
 ### 数据可视化
 
 #### echarts踩坑
