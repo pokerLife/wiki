@@ -84,6 +84,7 @@
 * [张鑫旭 CSS3 border-radius知多少？](https://www.zhangxinxu.com/wordpress/2015/11/css3-border-radius-tips/)
 * [css布局之box-sizing布局指南 #60](https://github.com/mHeartbeats/notes/issues/60)
 * [值得参考的CSS理论：OOCSS、 SMACSS、 BEM #63](https://github.com/pokerLife/notes/issues/63)
+* [解决 Android 浏览器下 line-height 垂直居中偏离问题 #75](https://github.com/pokerLife/notes/issues/75)
 ### xml
 * [XML文档规则 — 特殊字符解决办法](https://github.com/mHeartbeats/notes/issues/17)
 * [XML命名空间](https://github.com/mHeartbeats/notes/issues/18)
