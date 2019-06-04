@@ -76,6 +76,7 @@
 * [Html5常用标签用法总结](https://github.com/pokerLife/notes/blob/master/Html5%E6%A0%87%E7%AD%BE%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93)
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 * [HTML5 DOM #59](https://github.com/mHeartbeats/notes/issues/59)
+* [网页适配 iPhoneX 初体验 #76](https://github.com/mHeartbeats/notes/issues/59)
 ### css/less/sass/postcss
 * [伪类 + transform 实现移动端1物理像素线](https://github.com/mHeartbeats/notes/issues/51)
 * [移动端图片保持宽高比采用padding-top 实现](https://github.com/mHeartbeats/notes/issues/52)
