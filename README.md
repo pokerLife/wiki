@@ -1,7 +1,4 @@
-# notes
-> 工具技巧、学习心得
-
-# 工具技巧
+## 工具技巧
 
 ### myeclipse
 
@@ -45,7 +42,7 @@
 
 * [echarts饼图label文字重叠问题](https://github.com/mHeartbeats/notes/issues/41)
 
-# 编程语言
+## 编程语言
 ### javaScript
 * [JavaScript 编码技巧整理](https://github.com/pokerLife/notes/blob/master/js-skills.md)
 * [相等比较中使用 Object.is()]()
@@ -101,7 +98,7 @@
 ### ssm碰到的坑
 * [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/35)
 
-# 数据库
+## 数据库
 
 ### Oracle
 * [Oracle速查速记手册知识文档](https://github.com/pokerLife/notes/blob/master/oracle.md)
@@ -126,7 +123,7 @@
 
 * [Oracle配置PL/SQL Developer连接数据库](https://github.com/mHeartbeats/notes/issues/40)
 
-# 操作系统
+## 操作系统
 
 ### 系统安装
 * [UEFI+GPT+双硬盘下 搭建Windos10 和CentOS7 双系统](https://www.jianshu.com/p/5ee2f83e83bf)
@@ -139,7 +136,7 @@
 * [Centos下常用软件安装](https://github.com/pokerLife/notes/blob/master/centos%E8%BD%AF%E4%BB%B6%E5%AE%89%E8%A3%85)
 
 
-# 项目构建管理
+## 项目构建管理
 
 ### maven
 
