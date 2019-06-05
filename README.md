@@ -70,11 +70,11 @@
 * [java异常处理](https://github.com/mHeartbeats/notes/issues/2)
 * [String 拼接长sql，java工具类](https://github.com/mHeartbeats/notes/issues/22)
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
-### spring boot开发
-* [Spring-Boot工程打成war包](https://github.com/mHeartbeats/notes/issues/42)
-* [spring使用@Value标签读取*.properties文件的中文乱码问题的解决](https://github.com/mHeartbeats/notes/issues/37)
-* [SpringBoot 发送邮件附件](https://github.com/mHeartbeats/notes/issues/38)
-* [SpringBoot 启动报错 Consider the following:	If you want an embedded database (H2, HSQL or Derby), please put it on the .... ](https://github.com/mHeartbeats/notes/issues/39)
+* spring boot开发
+ * [Spring-Boot工程打成war包](https://github.com/mHeartbeats/notes/issues/42)
+ * [spring使用@Value标签读取*.properties文件的中文乱码问题的解决](https://github.com/mHeartbeats/notes/issues/37)
+ * [SpringBoot 发送邮件附件](https://github.com/mHeartbeats/notes/issues/38)
+ * [SpringBoot 启动报错 Consider the following:	If you want an embedded database (H2, HSQL or Derby), please put it on the .... ](https://github.com/mHeartbeats/notes/issues/39)
 ### html
 * [Html5常用标签用法总结](https://github.com/pokerLife/notes/blob/master/Html5%E6%A0%87%E7%AD%BE%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93)
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
