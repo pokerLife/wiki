@@ -18,6 +18,7 @@
 
 ### VSCode
 * [Vue代码格式化 #71](https://github.com/mHeartbeats/notes/issues/71)
+* [VSCode优质插件整理]
 
 ### 插件 
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
