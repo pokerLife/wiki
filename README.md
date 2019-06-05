@@ -1,6 +1,6 @@
 ## 工具技巧
 
-### myeclipse
+### MyEclipse
 
 * [myeclipse一直停留在Loading workbench界面上的处理办法](https://github.com/mHeartbeats/notes/issues/1)
 * [eclipse导入新的maven项目时，pom.xml第一行报错解决办法](https://github.com/mHeartbeats/notes/issues/6)
