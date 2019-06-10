@@ -129,16 +129,17 @@
 ### 系统安装
 * [UEFI+GPT+双硬盘下 搭建Windos10 和CentOS7 双系统](https://www.jianshu.com/p/5ee2f83e83bf)
 
-### windows
+### Windows
 * [批量提取文件夹内文件名](https://github.com/mHeartbeats/notes/issues/14)
 * [Win键+数字键（0~9）快速启动任务栏程序](https://github.com/mHeartbeats/notes/issues/20)
+* [Windows奇淫技巧 #80](https://github.com/mHeartbeats/notes/issues/80)
 
-### linux
+### Linux
 * [CentOS7下软件安装教程 #79](https://github.com/mHeartbeats/notes/issues/79)
 
 ## 项目构建管理
 
-### maven
+### Maven
 
 * [maven阿里云中央仓库](https://github.com/mHeartbeats/notes/issues/29)
 
