@@ -30,6 +30,7 @@
 
 ### 项目环境搭建
 * [Android - Windows下开发环境的搭建（附：编写运行一个简单样例）](http://www.hangge.com/blog/cache/detail_1294.html)
+* [前端包管理工具常见问题汇总 #81](https://github.com/mHeartbeats/notes/issues/81)
 
 ### 代码规范类插件
 * [Eslint常用校验规则 #62](https://github.com/mHeartbeats/notes/issues/62)
@@ -98,6 +99,7 @@
 * [一些有用的vue插件](http://elickzhao.github.io/2017/08/vue%E4%B8%80%E4%BA%9B%E7%89%B9%E5%88%AB%E6%9C%89%E7%94%A8%E7%9A%84%E6%8F%92%E4%BB%B6/)
 ### ssm碰到的坑
 * [springMvc web.xml报错:class path resource config/spring/springmvc.xml cannot be opened because it does](https://github.com/mHeartbeats/notes/issues/35)
+###
 
 ## 数据库
 
