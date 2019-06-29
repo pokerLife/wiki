@@ -114,6 +114,7 @@
 * [Oracle 格式化日期 ](https://github.com/pokerLife/notes/issues/45)
 
 ### MySQL
+* [Mysql相关查询](https://github.com/pokerLife/notes/issues/82)
 
 ### 数据库连接工具
 * [Navicat 激活工具使用(版本12.1.12已通过) ](https://github.com/DoubleLabyrinth/navicat-keygen)
