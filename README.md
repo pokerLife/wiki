@@ -15,6 +15,7 @@
 * [IntelliJ IDEA设置统一编码utf-8](https://github.com/mHeartbeats/notes/issues/12)
 * [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
 * [Intellij Idea Spring Boot 热部署](https://github.com/mHeartbeats/notes/issues/36)
+* [Idea 导入多个maven项目 #83](https://github.com/mHeartbeats/notes/issues/83)
 
 ### VSCode
 * [Vue代码格式化 #71](https://github.com/mHeartbeats/notes/issues/71)
