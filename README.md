@@ -16,6 +16,7 @@
 * [IEDA 项目中的五种目录类型](https://github.com/mHeartbeats/notes/issues/26)
 * [Intellij Idea Spring Boot 热部署](https://github.com/mHeartbeats/notes/issues/36)
 * [Idea 导入多个maven项目 #83](https://github.com/mHeartbeats/notes/issues/83)
+* [Intellij IDEA神器使用技巧 #84](https://github.com/mHeartbeats/notes/issues/84)
 
 ### VSCode
 * [Vue代码格式化 #71](https://github.com/mHeartbeats/notes/issues/71)
