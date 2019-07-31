@@ -29,6 +29,7 @@
 
 ### 项目打包发布
 * [Cordova - 打包Vue项目的详细步骤（将Vue.js项目编译成App）](http://www.hangge.com/blog/cache/detail_2101.html)
+* [npx使用教程——阮一峰博客](http://www.ruanyifeng.com/blog/2019/02/npx.html)
 
 ### 项目环境搭建
 * [Android - Windows下开发环境的搭建（附：编写运行一个简单样例）](http://www.hangge.com/blog/cache/detail_1294.html)
