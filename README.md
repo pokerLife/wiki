@@ -26,6 +26,7 @@
 * [IntelliJ IDEA 的 Java 热部署插件激活](https://github.com/mHeartbeats/notes/issues/8)
 * [Maven安装与环境配置（Windows）](https://github.com/mHeartbeats/notes/issues/23)
 * [idea热部署内存溢出：java.lang.OutOfMemoryError](https://github.com/mHeartbeats/notes/issues/27)
+* [JRebel 破解最新办法 #87](https://github.com/mHeartbeats/notes/issues/87)
 
 ### 项目打包发布
 * [Cordova - 打包Vue项目的详细步骤（将Vue.js项目编译成App）](http://www.hangge.com/blog/cache/detail_2101.html)
