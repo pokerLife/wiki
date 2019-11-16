@@ -78,6 +78,7 @@
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
 * [HTML5 DOM #59](https://github.com/mHeartbeats/notes/issues/59)
 * [网页适配 iPhoneX 初体验 #76](https://github.com/mHeartbeats/notes/issues/59)
+* [HTML5视频播放 video标签最佳实践 #88](https://github.com/pokerLife/notes/issues/88)
 ### css/less/sass/postcss
 * [伪类 + transform 实现移动端1物理像素线](https://github.com/mHeartbeats/notes/issues/51)
 * [移动端图片保持宽高比采用padding-top 实现](https://github.com/mHeartbeats/notes/issues/52)
