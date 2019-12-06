@@ -143,7 +143,7 @@
 * [Windows奇淫技巧 #80](https://github.com/mHeartbeats/notes/issues/80)
 
 ### Linux
-* [CentOS7下软件安装教程 #79](https://github.com/mHeartbeats/notes/issues/79)
+* [linux下软件安装教程 #79](https://github.com/mHeartbeats/notes/issues/79)
 
 ## 项目构建管理
 
