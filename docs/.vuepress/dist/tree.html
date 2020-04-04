@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Aluoli 中文文档</title>
+    <meta name="description" content="🛠️ Aluoli管理系统快速开发框架 中文文档">
+    <meta name="generator" content="VuePress 1.4.0">
+    <link rel="icon" href="/favicon.ico">
+    
+    <link rel="preload" href="/assets/css/0.styles.9970a1b7.css" as="style"><link rel="preload" href="/assets/js/app.7c5540fa.js" as="script"><link rel="preload" href="/assets/js/2.b3e83bdd.js" as="script"><link rel="preload" href="/assets/js/7.125b7af5.js" as="script"><link rel="prefetch" href="/assets/js/3.bc7b8041.js"><link rel="prefetch" href="/assets/js/4.36bfb526.js"><link rel="prefetch" href="/assets/js/5.19311c1e.js"><link rel="prefetch" href="/assets/js/6.b4150530.js"><link rel="prefetch" href="/assets/js/8.db5639e8.js">
+    <link rel="stylesheet" href="/assets/css/0.styles.9970a1b7.css">
+  </head>
+  <body>
+    <div id="app" data-server-rendered="true"><div class="theme-container"><header class="navbar"><div class="sidebar-button"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" role="img" viewBox="0 0 448 512" class="icon"><path fill="currentColor" d="M436 124H12c-6.627 0-12-5.373-12-12V80c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12zm0 160H12c-6.627 0-12-5.373-12-12v-32c0-6.627 5.373-12 12-12h424c6.627 0 12 5.373 12 12v32c0 6.627-5.373 12-12 12z"></path></svg></div> <a href="/" class="home-link router-link-active"><!----> <span class="site-name">Aluoli 中文文档</span></a> <div class="links"><div class="search-box"><input aria-label="Search" autocomplete="off" spellcheck="false" value=""> <!----></div> <nav class="nav-links can-hide"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><a href="/core/" class="nav-link">
+  组件
+</a></div><div class="nav-item"><a href="/help/" class="nav-link">
+  帮助
+</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav></div></header> <div class="sidebar-mask"></div> <aside class="sidebar"><nav class="nav-links"><div class="nav-item"><a href="/guide/" class="nav-link">
+  指南
+</a></div><div class="nav-item"><a href="/core/" class="nav-link">
+  组件
+</a></div><div class="nav-item"><a href="/help/" class="nav-link">
+  帮助
+</a></div><div class="nav-item"><a href="https://google.com" target="_blank" rel="noopener noreferrer" class="nav-link external">
+  GitHub
+  <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" width="15" height="15" class="icon outbound"><path fill="currentColor" d="M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z"></path> <polygon fill="currentColor" points="45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9"></polygon></svg></a></div> <!----></nav>  <ul class="sidebar-links"><li><section class="sidebar-group depth-0"><a href="/foo/" class="sidebar-heading clickable open"><span>Group 1</span> <!----></a> <ul class="sidebar-links sidebar-group-items"><li><a href="/" class="sidebar-link">Home</a></li></ul></section></li><li><section class="sidebar-group collapsable depth-0"><p class="sidebar-heading"><span>Group 2</span> <span class="arrow right"></span></p> <!----></section></li></ul> </aside> <main class="page"> <div class="theme-default-content content__default"><p>|-- vue-admin
+|-- .browserslistrc
+|-- .editorconfig
+|-- .eslintrc.js
+|-- .gitignore
+|-- babel.config.js
+|-- jest.config.js
+|-- package.json
+|-- README.md
+|-- vue.config.js
+|-- yarn.lock
+|-- dist
+|   |-- favicon.ico
+|   |-- index.html
+|   |-- css
+|   |   |-- app.6e45faab.css
+|   |   |-- chunk-09995fc4.4e97866b.css
+|   |   |-- chunk-379d787a.9855c8ca.css
+|   |   |-- chunk-54955c91.f2264f28.css
+|   |   |-- chunk-5996935f.63a9a0de.css
+|   |   |-- chunk-7c3f15f6.d696c079.css
+|   |   |-- chunk-946bdeee.5070f22e.css
+|   |   |-- chunk-9921e56c.854ecffc.css
+|   |   |-- chunk-a16c7984.d942ae48.css
+|   |   |-- chunk-ca83b97a.f54815f5.css
+|   |   |-- chunk-db2f2dd4.30dc9c03.css
+|   |   |-- chunk-vendors.0b5956c2.css
+|   |-- fonts
+|   |   |-- element-icons.535877f5.woff
+|   |   |-- element-icons.732389de.ttf
+|   |   |-- fontawesome-webfont.674f50d2.eot
+|   |   |-- fontawesome-webfont.af7ae505.woff2
+|   |   |-- fontawesome-webfont.b06871f2.ttf
+|   |   |-- fontawesome-webfont.fee66e71.woff
+|   |-- img
+|   |   |-- bg.fc093ce9.png
+|   |   |-- boy.f7bf2903.png
+|   |   |-- fontawesome-webfont.912ec66d.svg
+|   |-- js
+|       |-- app.2bd3b0da.js
+|       |-- app.2bd3b0da.js.map
+|       |-- chunk-09995fc4.289d7e91.js
+|       |-- chunk-09995fc4.289d7e91.js.map
+|       |-- chunk-2d22db1a.718aecb4.js
+|       |-- chunk-2d22db1a.718aecb4.js.map
+|       |-- chunk-379d787a.b83eb1e2.js
+|       |-- chunk-379d787a.b83eb1e2.js.map
+|       |-- chunk-54955c91.181ef95e.js
+|       |-- chunk-54955c91.181ef95e.js.map
+|       |-- chunk-5996935f.60c20493.js
+|       |-- chunk-5996935f.60c20493.js.map
+|       |-- chunk-7c3f15f6.2641407a.js
+|       |-- chunk-7c3f15f6.2641407a.js.map
+|       |-- chunk-946bdeee.e409d940.js
+|       |-- chunk-946bdeee.e409d940.js.map
+|       |-- chunk-9921e56c.0ebedc4b.js
+|       |-- chunk-9921e56c.0ebedc4b.js.map
+|       |-- chunk-a16c7984.b6e345eb.js
+|       |-- chunk-a16c7984.b6e345eb.js.map
+|       |-- chunk-ca83b97a.20330e53.js
+|       |-- chunk-ca83b97a.20330e53.js.map
+|       |-- chunk-d626b4d4.62b35d28.js
+|       |-- chunk-d626b4d4.62b35d28.js.map
+|       |-- chunk-db2f2dd4.70202227.js
+|       |-- chunk-db2f2dd4.70202227.js.map
+|       |-- chunk-vendors.bef477c5.js
+|       |-- chunk-vendors.bef477c5.js.map
+|-- docs
+|   |-- tree.md
+|-- public
+|   |-- favicon.ico
+|   |-- index.html
+|-- scripts
+|   |-- directoryTree.js
+|-- src
+|   |-- App.vue
+|   |-- main.js
+|   |-- api
+|   |   |-- index.js
+|   |   |-- home
+|   |       |-- index.js
+|   |-- assets
+|   |   |-- admin
+|   |   |   |-- icon
+|   |   |       |-- aside-header-icon.png
+|   |   |       |-- icon-spread-active.png
+|   |   |       |-- icon-spread.png
+|   |   |-- home
+|   |   |   |-- icon
+|   |   |   |   |-- footer-icon-fold.png
+|   |   |   |   |-- icon-down.png
+|   |   |   |   |-- icon-home.png
+|   |   |   |   |-- icon-message.png
+|   |   |   |   |-- icon-opinion.png
+|   |   |   |   |-- icon-qrcode.png
+|   |   |   |   |-- icon-question.png
+|   |   |   |   |-- icon-skin.png
+|   |   |   |   |-- swiper-next.png
+|   |   |   |   |-- swiper-prev.png
+|   |   |   |-- img
+|   |   |       |-- boy.png
+|   |   |       |-- footer-bg.png
+|   |   |       |-- girl.png
+|   |   |       |-- system
+|   |   |           |-- sys-flow.png
+|   |   |           |-- sys-guankong.png
+|   |   |           |-- sys-homepage.png
+|   |   |           |-- sys-houqin.png
+|   |   |           |-- sys-hr.png
+|   |   |           |-- sys-investment.png
+|   |   |           |-- sys-meeting.png
+|   |   |           |-- sys-project.png
+|   |   |           |-- sys-pxxx.png
+|   |   |           |-- sys-system.png
+|   |   |-- skin
+|   |       |-- css
+|   |       |-- img
+|   |           |-- bg.png
+|   |           |-- bg1.png
+|   |-- components
+|   |   |-- admin
+|   |   |   |-- AllSystem.vue
+|   |   |   |-- TagNav.vue
+|   |   |-- home
+|   |       |-- DateTime.vue
+|   |       |-- SysWheel.vue
+|   |       |-- Toolbar.vue
+|   |       |-- UserInfo.vue
+|   |       |-- Weather.vue
+|   |-- directive
+|   |-- filters
+|   |-- router
+|   |   |-- index.js
+|   |   |-- modules
+|   |-- store
+|   |   |-- index.js
+|   |   |-- modules
+|   |       |-- target.js
+|   |       |-- user.js
+|   |-- styles
+|   |-- utils
+|   |   |-- util.http.js
+|   |   |-- util.import.development.js
+|   |   |-- util.import.production.js
+|   |-- views
+|       |-- home
+|       |   |-- Footer.vue
+|       |   |-- Header.vue
+|       |   |-- Index.vue
+|       |   |-- Main.vue
+|       |-- layout
+|       |   |-- Aside.vue
+|       |   |-- Index.vue
+|       |   |-- Main.vue
+|       |-- modules
+|           |-- menu
+|           |-- role
+|               |-- test.vue
+|               |-- test2.vue
+|               |-- test3.vue
+|               |-- test4.vue
+|-- tests
+|-- unit
+|-- example.spec.js</p></div> <footer class="page-edit"><!----> <!----></footer> <!----> </main></div><div class="global-ui"></div></div>
+    <script src="/assets/js/app.7c5540fa.js" defer></script><script src="/assets/js/2.b3e83bdd.js" defer></script><script src="/assets/js/7.125b7af5.js" defer></script>
+  </body>
+</html>
