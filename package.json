@@ -1,0 +1,15 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pokerLife/notes.git",
+  "author": "mr_zhaojie <mr_zhaojie@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs": "vuepress dev docs --no-cache",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.4.0"
+  }
+}
