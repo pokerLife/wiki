@@ -73,6 +73,7 @@
 * [ibatis获取主键方法](https://github.com/mHeartbeats/notes/issues/25)
 * [Java项目开发常见错误](https://github.com/mHeartbeats/notes/issues/78)
 * [Spring-Boot工程打成war包](https://github.com/mHeartbeats/notes/issues/42)
+* [SpringBoot 中 Mybatis 打印 sql](https://github.com/pokerLife/wiki/issues/99)
 ### html
 * [Html5常用标签用法总结](https://github.com/pokerLife/notes/blob/master/Html5%E6%A0%87%E7%AD%BE%E7%94%A8%E6%B3%95%E6%80%BB%E7%BB%93)
 * [移动端常用meta标签](https://github.com/mHeartbeats/notes/issues/34)
