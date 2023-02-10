@@ -1,5 +1,9 @@
 ## 工具技巧
 
+### VMare ESXi服务器虚拟化
+
+* [VMware ESXi网络配置](https://github.com/pokerLife/wiki/issues/124)
+
 ### MyEclipse
 
 * [myeclipse一直停留在Loading workbench界面上的处理办法](https://github.com/mHeartbeats/notes/issues/1)
